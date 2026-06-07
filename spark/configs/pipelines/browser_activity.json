@@ -1,0 +1,15 @@
+{
+  "table": "browser_activity",
+  "silver_columns": {
+    "client_id": "string",
+    "username": "string",
+    "domain": "string",
+    "url": "string",
+    "start_time": "timestamp",
+    "end_time": "timestamp",
+    "total_duration": "integer",
+    "idle_time": "integer",
+    "active_time": "integer",
+    "end_reason": "string"
+  }
+}

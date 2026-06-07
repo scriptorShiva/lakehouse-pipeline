@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Airflow
+airflow/logs/
+airflow/plugins/__pycache__/
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Data
+data/
+warehouse/
+
+# MinIO
+minio-data/
+data/minio/
+
+# Docker
+docker-data/
+*.pid
+
+# Trino
+trino/data/
+
+# Superset
+superset_home/
+superset.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+tmp/
+temp/
+*.log
+
+# Build artifacts
+dist/
+build/
