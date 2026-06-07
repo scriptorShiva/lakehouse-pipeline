@@ -21,4 +21,6 @@
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/e3b8e282-c51a-45b3-81c2-61cb888b943e" />
 
 
+### DOCKER IMAGE
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/703e13c6-2111-468c-9fe3-412142ff0614" />
 
